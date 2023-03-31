@@ -1,0 +1,42 @@
+
+@font-face {
+    font-family: MintSoda;
+    src: url(MintsodaLimeGreen16X16Regular-OVadO.ttf);
+}
+
+body{
+    background-color: black;
+    -webkit-text-fill-color: #D9DBF1;
+    font-family: MintSoda;
+    
+
+}
+
+h1{
+    text-align: center;
+    
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    scale: 75%;
+    border-color: #5A7684;
+    border-style: double;
+}
+
+.mashed{
+    margin-bottom: 5%;
+}
+
+h3{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+   
+}
+
