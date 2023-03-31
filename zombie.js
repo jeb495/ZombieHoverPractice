@@ -1,5 +1,4 @@
 
-
 //set last best
 setInterval(function () {document.getElementById("last").innerHTML = value}, 1000);
 
